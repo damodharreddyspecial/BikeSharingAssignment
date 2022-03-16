@@ -10,7 +10,7 @@ Linear Regression Model Descriptive anylitics for Bike Sharing Assignment.
 
 ## Conclusions
 Performed EDA
-
+Plots and Analyzed Models
 
 
 ## Contact
